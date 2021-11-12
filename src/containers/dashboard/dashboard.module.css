@@ -1,0 +1,16 @@
+.dash_container {
+    margin: 0 auto;
+    width: 50%;
+    text-align: center;
+    padding: 50px;
+}
+
+.dash_container input {
+    padding: 10px;
+    width: 300px;
+}
+
+.dash_container button {
+    padding: 10px;
+    margin-left: 10px;
+}
